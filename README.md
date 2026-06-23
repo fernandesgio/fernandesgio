@@ -12,8 +12,8 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonada por dados, automação e geração de insights que apoiam decisões estratégicas.  
-Atuo com análise de dados, construção de dashboards, modelagem, ETL e bancos de dados, sempre buscando transformar informações em valor para o negócio.
+Analista de Dados com foco em inteligência de negócio, automação e arquitetura de painéis estratégicos.
+Conecto regras de negócio complexas à engenharia de dados, atuando com modelagem, consultas estruturadas (SQL) e ETL para transformar dados brutos em valor tangível para a empresa.
 
 ---
 
