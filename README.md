@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou a Giovanna Fernandes! 👋</h1>
+<h1 align="center"> Fernandesgio | Giovanna Fernandes 👾 </h1>
 
 <p align="center">
   <strong>Analista de Dados</strong> | SQL | Python | Power BI | ETL | Banco de Dados
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Analista%20de%20Dados%20Plena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Analista de Dados Plena" />
+  <img src="https://img.shields.io/badge/Analista%20de%20Dados%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Analista de Dados Plena" />
 </p>
 
 ---
