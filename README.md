@@ -13,6 +13,7 @@
 ## 🚀 About me
 
 Data Analyst focused on business intelligence, automation, and strategic dashboard architecture.
+
 Specialized in bridging the gap between business requirements and data engineering through data modeling, advanced SQL queries, and efficient ETL processes.
 
 ---
