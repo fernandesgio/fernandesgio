@@ -46,7 +46,7 @@ Sou formada em **Ciência da Computação** e encontrei nos dados a minha grande
 ## 📈 GitHub Stats
 
 <div align="center">
-  <!-- Substitua SEU_USUARIO_AQUI pelo seu nome de usuário real do GitHub -->
+  <!-- fernandesgio -->
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight" alt="GitHub Streak" height="180px" />
 </div>
