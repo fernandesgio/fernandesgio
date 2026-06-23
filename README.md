@@ -1,23 +1,23 @@
 <h1 align="center"> Fernandesgio | Giovanna Fernandes 👾 </h1>
 
 <p align="center">
-   Python | SQL | Power BI | ETL | Banco de Dados
+   Python | SQL | Power BI | ETL | Databases
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Analista%20de%20Dados%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Analista de Dados Plena" />
+  <img src="https://img.shields.io/badge/Data%20Analyst-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Data Analyst" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-Analista de Dados com foco em inteligência de negócio, automação e arquitetura de painéis estratégicos.
-Conecto regras de negócio complexas à engenharia de dados, atuando com modelagem, consultas estruturadas (SQL) e ETL para transformar dados brutos em valor tangível para a empresa.
+Data Analyst focused on business intelligence, automation, and strategic dashboard architecture.  
+I connect complex business rules to data engineering, working with modeling, structured queries (SQL), and ETL to transform raw data into tangible business value.
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+## 🛠️ Languages and Technologies
 
 <p>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
@@ -31,7 +31,7 @@ Conecto regras de negócio complexas à engenharia de dados, atuando com modelag
 
 ## 📊 Business Intelligence & Analytics
 
-### Visualização e Dashboards
+### Visualization and Dashboards
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -39,7 +39,7 @@ Conecto regras de negócio complexas à engenharia de dados, atuando com modelag
   <img src="https://img.shields.io/badge/Google%20Data%20Studio-E37400?style=flat-square&logo=google&logoColor=white" alt="Google Data Studio" />
 </p>
 
-### Bancos de Dados
+### Databases
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -60,13 +60,13 @@ Conecto regras de negócio complexas à engenharia de dados, atuando com modelag
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandesgio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandesgio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandesgio&theme=dracula" alt="GitHub Streak" height="180px" />
 </p>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/giovanna-fernandes-?" target="_blank">
