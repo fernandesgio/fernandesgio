@@ -1,14 +1,10 @@
 # Olá, eu sou a Giovanna Fernandes! 👋
 
+Analista de Dados | SQL | Python | Power BI | ETL | Banco de Dados
+
 <div align="center">
   <img src="https://img.shields.io/badge/Analista%20de%20Dados%20Plena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
-
----
-
-## 👩‍💻 Sobre Mim
-
-Sou Bacharel em Ciência da Computação e especialista em transformar dados brutos em decisões estratégicas. Com autonomia e forte foco em negócios, desenvolvo estruturas lógicas eficientes e dashboards de alto impacto. Tenho facilidade para trabalhar sob pressão e traduzir regras complexas em soluções de Analytics.
 
 ---
 
