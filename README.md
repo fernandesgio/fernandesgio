@@ -3,7 +3,7 @@ Fernandesgio | Giovanna Fernandes 👾
 Analista de Dados | SQL | Python | Power BI | ETL | Banco de Dados
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Analista%20de%20Dados%20Plena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analista%20de%20Dados%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
 
 🛠️ Linguagens e Tecnologias
