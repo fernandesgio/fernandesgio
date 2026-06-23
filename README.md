@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Analista%20de%20Dados%20Plena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cientista%20da%20Computação-222222?style=for-the-badge&logo=codeforces&logoColor=white" />
 </div>
 
 ---
@@ -53,7 +52,6 @@ Sou Bacharel em Ciência da Computação e especialista em transformar dados bru
 ## 📈 GitHub Stats
 
 <div align="center">
-  <!-- Substitua SEU-USUARIO pelo seu nome de usuário real do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dracula" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandesgio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandesgio&theme=dracula" alt="GitHub Streak" height="180px" />
 </div>
