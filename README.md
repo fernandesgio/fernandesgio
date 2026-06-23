@@ -1,7 +1,7 @@
 <h1 align="center"> Fernandesgio | Giovanna Fernandes 👾 </h1>
 
 <p align="center">
-  <strong>Analista de Dados</strong> | SQL | Python | Power BI | ETL | Banco de Dados
+   Python | SQL | Power BI | ETL | Banco de Dados
 </p>
 
 <p align="center">
