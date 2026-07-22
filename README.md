@@ -61,8 +61,6 @@ Specialized in bridging the gap between business requirements and data engineeri
 
 ---
 
-## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fernandesgio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandesgio&theme=dracula" alt="GitHub Streak" height="180px" />
