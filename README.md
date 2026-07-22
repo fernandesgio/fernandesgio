@@ -1,7 +1,7 @@
 <h1 align="center"> Fernandesgio | Giovanna Fernandes 👾 </h1>
 
 <p align="center">
-   Python | SQL | Power BI | ETL | Databases
+  Python | SQL | Power BI | ETL | Databases
 </p>
 
 <p align="center">
@@ -62,8 +62,8 @@ Specialized in bridging the gap between business requirements and data engineeri
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandesgio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandesgio&theme=dracula" alt="GitHub Streak" height="180px" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandesgio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandesgio&theme=dracula" />
 </p>
 
 ---
